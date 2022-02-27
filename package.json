@@ -2,7 +2,7 @@
   "name": "littledb",
   "version": "1.0.0",
   "description": "server",
-  "main": "index.js",
+  "main": "./public/index.js",
   "scripts": {
     "dev": "react-scripts start",
     "start": "node index.js",
